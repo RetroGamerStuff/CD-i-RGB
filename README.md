@@ -54,7 +54,7 @@ The majority of installations will require the solder jumpers set to the left. I
 </ul>
 <strong>How do I install this?</strong>
 <ul>
- 	<li>Please see <a href="https://mobiusstriptechnologies.com/cdi-400-500-series-rgb-board-install/" target="_blank" rel="noopener noreferrer">here</a>.</li>
+ 	<li>Please see <a href="https://github.com/RetroGamerStuff/CD-i-RGB/tree/main/Installation" target="_blank" rel="noopener noreferrer">here</a>.</li>
 </ul>
 
 <strong>What license is this?</strong>
